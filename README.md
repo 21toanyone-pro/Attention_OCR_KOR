@@ -14,6 +14,10 @@ This project can run on Windows10, using the python3 environment and The network
 cd python
 python train.py --dataset_name=newtextdataset
 ```
+
+### Loss Function
+![image](./image/total_loss.JPG)
+
   
 ## Verify your own model
 Verify your own model
@@ -24,6 +28,9 @@ The results can be view used tensorboard
 ```
 tensorboard  --logdir=/tmp/attention_ocr/eval
 ```
+
+### Accuracy
+![image](./image/Accuracy.JPG)
 
 ## Use a trained model
 ```
