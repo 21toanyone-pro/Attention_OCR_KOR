@@ -10,6 +10,8 @@ And i can reference Chinse ["Attention-OCR-CN"](https://github.com/A-bone1/Atten
 
 This project can run on Windows10, using the python3 environment and The network is built using tensorflow
 
+I generated FSNS format tfrecord for Korean text recognition and a dictionary of 2,445 korean characters.
+
 
 ## How to use your own image data to train the model
 ```
