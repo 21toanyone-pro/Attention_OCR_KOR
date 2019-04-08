@@ -6,6 +6,8 @@ Modify [Google's attention model](https://github.com/tensorflow/models/tree/mast
 
 More details can be found in this paper - ["Attention-based Extraction of Structured Information from Street View Imagery"](https://arxiv.org/abs/1704.03549)
 
+And i can reference Chinse ["Attention-OCR-CN"](https://github.com/A-bone1/Attention-ocr-Chinese-Version)
+
 This project can run on Windows10, using the python3 environment and The network is built using tensorflow
 
 
